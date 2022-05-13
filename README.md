@@ -21,6 +21,8 @@ is a fork of the Unix-like Fuzix operating system, originally developed for the 
 
 
 ### Ref
--https://en.wikipedia.org/wiki/Minix
-https://hackaday.com/2017/04/16/z80-fuzix-is-like-old-fashioned-unix/
+- https://en.wikipedia.org/wiki/Minix
+- https://hackaday.com/2017/04/16/z80-fuzix-is-like-old-fashioned-unix/
+- https://github.com/EtchedPixels/FUZIX
+- 
 
